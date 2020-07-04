@@ -13,3 +13,8 @@ Very garbage
 打飞机小游戏
 
 Airplane Wars
+
+3.TheSubmarineWar
+潜艇大战
+
+TheSubmarineWar
